@@ -7,9 +7,9 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dlccyes&theme=radical)
 
-![snake_dark](dist/github-snake.svg#gh-dark-mode-only)
+![snake_dark](dist/github-snake.svg#gh-light-mode-only)
 
-![snake_light](dist/github-contribution-grid-snake-dark#gh-dark-mode-only)
+![snake_light](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <p align="center"> 
   Visitor count<br>
