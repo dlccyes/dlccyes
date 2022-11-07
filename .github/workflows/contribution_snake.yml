@@ -40,6 +40,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: commit push
+        uses: actions/checkout@v2
         run: |
           git config --global user.name 'snake'
           git config --global user.email 'snake@snakey.com'
