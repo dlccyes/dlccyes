@@ -19,7 +19,7 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Gen contribution snake svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -39,6 +39,9 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # a github token is required to fetch the contribution calendar from github API
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
       - name: commit push
         run: |
           git config --global user.name 'snake'
