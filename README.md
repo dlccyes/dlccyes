@@ -1,6 +1,6 @@
 [![Gmail badge](https://img.shields.io/badge/derricken968@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:derricken968@gmail.com)
 [![About me badge](https://img.shields.io/badge/About_Me-purple?logo=About.me&logoColor=white)](https://www.derricklin.net/)
-[![LinkedIn badge](https://img.shields.io/badge/Derrick_Lin-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/derrick-lin/)
+[![LinkedIn badge](https://img.shields.io/badge/Derrick_Lin-blue?logo=Lobsters&logoColor=white)](https://www.linkedin.com/in/derrick-lin/)
 <!-- [![resume badge](https://img.shields.io/badge/resume-Derrick_Lin-white)](https://www.derricklin.net/resources/Derrick_Lin.pdf) -->
 
 ### Github Stats
